@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63732802220",
+    "firebase_url": "https://app-for-op1.firebaseio.com",
+    "project_id": "app-for-op1",
+    "storage_bucket": "app-for-op1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63732802220:android:9f567a4e4f58d03322f509",
+        "android_client_info": {
+          "package_name": "com.camping.www.app_for_op1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63732802220-4bu1b50j6h2p3rve6l6kd3mrqg8jg51d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camping.www.app_for_op1",
+            "certificate_hash": "495accb685c3d5307234bea66c510dd5418af594"
+          }
+        },
+        {
+          "client_id": "63732802220-8bjqg08dv7vde8f9citq7mpj0a3momlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpR2a5fncDAX7VkEM9MGhbfhvBpCE83E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63732802220-8bjqg08dv7vde8f9citq7mpj0a3momlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
